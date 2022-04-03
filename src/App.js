@@ -4,7 +4,7 @@
   return (
     <div className="App">
       <Admin />
-      <h1>hello</h1>
+      
     </div>
   );
 }
